@@ -1,0 +1,42 @@
+/*Estilização do menu horizontal*/
+#mainNav {
+
+    padding: 0;
+    list-style: none;
+    border-left: none;
+    overflow: hidden;
+    clear: both;
+    zoom: 1;
+}
+
+#mainNav li {
+
+    width:100%;
+}
+
+
+#mainNav a {
+    font: 12px Verdana;	
+    height: 40px;
+    color: #000;
+    font-size: 11px;
+    color: #0D1B44;
+    line-height: 40px;
+    text-align: left;
+    text-decoration: none;
+    display: block;
+    background-repeat: no-repeat;
+    zoom: 1;
+}
+
+#mainNav p {
+    padding-left: 10px;
+    font-weight: bold;
+}
+
+#mainNav a:hover {
+    height: 40px;
+    background-color: #E2E6F3;
+    background-position: 3px 50%;
+    color: #0D1B44;
+}

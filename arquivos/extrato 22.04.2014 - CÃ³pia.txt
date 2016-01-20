@@ -1,0 +1,71 @@
+  BRB - Banco de Brasília S.A. - Extrato Mensal de Conta Corrente
+     Ag.: 0027   Conta: 027920041-2   Data: 23/04/2014   14:49
+           Emissor : VANESSA MACIEL MARTINS  Mat.: 821066
+                 BRB-CREDITO FINANCIAM E INVEST SA
+
+                  Saldo Anterior                                  634.327,25+
+------------------------------------------------------------------------------------
+Data   Doc.    Histórico                             V a l o r           S a l d o
+------------------------------------------------------------------------------------
+22/04 789624 CREDITO DE TED PAG C.CORRENTE            3.022,71+         637.349,96+
+22/04 789684 CREDITO DE TED PAG C.CORRENTE            7.208,07+         644.558,03+
+22/04 060027 TRANSF ELET CONTA CORRENTE               6.250,00+         650.808,03+
+22/04 000141 DEPOSITO IDENTIFICADO DINHEIRO              49,47+         650.857,50+
+22/04 000255 DEPOSITO IDENTIFICADO DINHEIRO              49,47+         650.906,97+
+22/04 000104 DEPOSITO IDENTIFICADO DINHEIRO           1.036,55+         651.943,52+
+22/04 026149 DEBITO TED PAG0108 C.CORRENTE              852,73-         651.090,79+
+22/04 026130 DEBITO TED PAG0108 C.CORRENTE              561,35-         650.529,44+
+22/04 026080 DEBITO TED PAG0108 C.CORRENTE              370,35-         650.159,09+
+22/04 026124 DEBITO TED PAG0108 C.CORRENTE              796,06-         649.363,03+
+22/04 026157 DEBITO TED PAG0108 C.CORRENTE              186,71-         649.176,32+
+22/04 026145 DEBITO TED PAG0108 C.CORRENTE              692,86-         648.483,46+
+22/04 026191 DEBITO TED PAG0108 C.CORRENTE              388,15-         648.095,31+
+22/04 026172 DEBITO TED PAG0108 C.CORRENTE              260,14-         647.835,17+
+22/04 026193 DEBITO TED PAG0108 C.CORRENTE              565,85-         647.269,32+
+22/04 026184 DEBITO TED PAG0108 C.CORRENTE              829,35-         646.439,97+
+22/04 026164 DEBITO TED PAG0108 C.CORRENTE              147,25-         646.292,72+
+22/04 026067 DEBITO TED PAG0108 C.CORRENTE            1.118,63-         645.174,09+
+22/04 002793 DEBITO PAGAMENTO FORNECEDOR              1.034,25-         644.139,84+
+22/04 101525 DEBITO PAGAMENTO FORNECEDOR              7.900,00-         636.239,84+
+22/04 027027 TRANSF ELET CONTA CORRENTE                 321,09+         636.560,93+
+22/04 000217 DEPOSITO IDENTIFICADO DINHEIRO           1.119,27+         637.680,20+
+22/04 000198 DEPOSITO IDENTIFICADO DINHEIRO           1.406,55+         639.086,75+
+22/04 000000 PAGAMENTO PARCELA EMPRESTI/FIN          34.490,12+         673.576,87+
+22/04 000077 DEPOSITO IDENTIFICADO DINHEIRO           1.668,71+         675.245,58+
+22/04 000830 DEPOSITO IDENTIFICADO DINHEIRO             672,15+         675.917,73+
+22/04 001432 DEBITO AUTORIZADO                        9.364,79-         666.552,94+
+22/04 027290 DEBITO TED STR0008 C.CORRENTE            1.480,82-         665.072,12+
+22/04 027190 DEBITO TED STR0008 C.CORRENTE              153,20-         664.918,92+
+22/04 001071 PAGAMENTO COM CHEQUE BRB               106.324,45-         558.594,47+
+22/04 027089 DEBITO TED STR0008 C.CORRENTE            3.000,00-         555.594,47+
+22/04 000000 PAGAMENTO PARCELA EMPRESTI/FIN           1.314,81+         556.909,28+
+15/04 000000 PAGAMENTO PARCELA EMPRESTI/FIN          37.944,26+         594.853,54+
+16/04 000000 PAGAMENTO PARCELA EMPRESTI/FIN         508.591,62+       1.103.445,16+
+14/04 000000 PAGAMENTO PARCELA EMPRESTI/FIN         145.232,12+       1.248.677,28+
+22/04 000000 Credito Consolidado CETIP           20.400.000,00+      21.648.677,28+
+22/04 103103 TRANSF ELET CONTA CORRENTE                 732,82+      21.649.410,10+
+22/04 000000 Debito Consolidado CETIP            15.006.594,15-       6.642.815,95+
+22/04 000000 TRANSFERENCIA ELETRONICA                     6,90-       6.642.809,05+
+22/04 000000 DEBITO EMPRESTIMO/FINANCIAMENT           6.214,29-       6.636.594,76+
+22/04 001072 PAGAMENTO COM CHEQUE BRB               212.149,48-       6.424.445,28+
+22/04 746133 CREDITO DE DOC-E COMPENSACAO             4.488,77+       6.428.934,05+
+22/04 831325 CREDITO DE DOC-E COMPENSACAO               772,19+       6.429.706,24+
+22/04 331368 DEB EMPREST BRB CFI TTB                 34.645,02-       6.395.061,22+
+22/04 331368 DEB REPASSE SEGURO PREST TTB               886,57-       6.394.174,65+
+22/04 331368 DEB EMPREST PAGTO VIA TED TTB        5.430.573,88-         963.600,77+
+22/04 331368 CRED DEVOLUCOES DE TED LIB TTB         149.010,40+       1.112.611,17+
+22/04 000001 CREDITO PRESTACAO CFI                   24.095,54+       1.136.706,71+
+22/04 999900 CRED TRANSF ROTEADOR                   315.148,20+       1.451.854,91+
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+             DETALHAMENTO DE LANÇAMENTOS PROVISIONADOS
+ 
+                 Data	Histórico                  	V a l o r
+ 
+                 Saldo Provisionado no dia                               0,00
+ 
+              *** EXCLUSIVAMENTE PARA USO INTERNO *** 
+  A divulgação deste documento fora das dependências deste banco 
+   acarretará a aplicação das penalidades previstas na quebra do 
+     Sigilo Bancário ao emissor citado no caput deste extrato.
+                   Ouvidoria BRB - 0800 642 1105

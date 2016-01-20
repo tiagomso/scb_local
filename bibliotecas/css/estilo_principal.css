@@ -1,0 +1,110 @@
+/*
+    Document   : Principal
+    Created on : 08/11/2011, 21:26:40
+    Author     : Thiago Matheus
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/*
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+/* reset styles */
+
+html, body, h1, h2, h3, h4, h5, h6, p, ol, ul, li, pre, code, address, variable, form, fieldset, blockquote {
+ padding: 0;
+ margin: 0;
+ font-size: 100%;
+ font-weight: normal;
+}
+
+            html,body{margin:0;padding:0;}
+            body{font: 76% arial,sans-serif;text-align:center;background-color:white}
+            p{margin:0 10px 10px}
+            a{display:block;color: #981793;padding:10px}*
+            a#sair{color: WHITE;background-color:red; text-align: center;}
+               
+            /*Formatação das tabelas*/
+            table { border-collapse: collapse; border-spacing: 0;
+                font: 100% Verdana, Arial, Helvetica, sans-serif;padding: 200px;
+                width:1150px; margin-top:25px}
+            tr#header {background-color: #55689F; color: white; font-weight: bold; text-align: center; height: 30px; }
+            tr#divisoria{height: 25px; line-height: 25px; 
+                         border-right: 2px dotted #FFF; border-left: 2px double #FFF;}
+            tr {height: 50px;} 
+            tr#par {background-color: #edf0f4}
+            tr#valor {text-align: center; width:10px}
+            th { text-align: center; font-weight: normal;}
+            td#td_desc {text-align: left}
+            tr#atrasado {background-color: rgb(242, 220, 219); text-align: center; width:10px}
+            tr#curso_normal {background-color: rgb(235, 241, 222); text-align: center; width:10px}
+            tr#concluido {background-color: rgb(220, 230, 241); text-align: center; width:10px}
+            tr#nao_iniciado {background-color: rgb(242, 242, 242); text-align: center; width:10px}
+            tr#cancelado {background-color: white; text-align: center; width:10px}
+
+            /*Formatação de cores, tamanhos e alinhamento dos leiautes*/
+            div#nm_sistema {background: #EEE;color: #0D1B44;text-align:center;
+                    vertical-align:text-bottom; font-size: 25px;line-height:45px}
+            div#var_sistema {background: #333;color: #FFF;height:10px}
+            div#navegacao_hrz{background: #55689F; height:auto;
+                vertical-align:text-bottom}
+            div#localizacao{background: #EEE;color: #0D1B44; height:25px;
+                font-weight:bold; padding-top: 7px; padding-left: 10px}
+            div#container_01{background: #EEE; Text-align:left; border-style:solid;
+                border-color: #4a4d50; border-width: .2em;}
+            div#container_02{background-color:white; Text-align:left; border-style:solid;
+                border-color: #4a4d50; border-width: .2em;}
+            div#conteudo {background-color:white}
+            div#conteudo p{line-height:1.4}
+            div#footer{background: #333;color: #FFF}
+            div#footer p{margin:0;padding:5px 10px}
+
+            /*Flutuação dos leiautes da area 01*/
+            div#container_01{clear:both; width:1250px;margin:0 auto;height:70px}
+            div#nm_sistema {float:left; width: 1095px;height:70px}
+            div#var_sistema {float:right;width:150px;height:70px}
+
+            /*Flutuação dos leiautes da area 02*/
+            div#container_02{clear:both;width:1250px;margin:0 auto}
+            div#conteudo{float:left;width:1250px}
+            div#footer{clear:both;width:100%}
+
+#mainNav {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  border-left: none;
+  overflow: hidden;
+  clear: both;
+  zoom: 1;
+}
+
+#mainNav li {
+    float: left;
+    width: 250px;
+}
+
+
+#mainNav a {
+    color: #000;
+    font-size: 11px;
+    color: white;
+    font-weight: bold;
+    vertical-align:text-bottom;
+    text-align: center;
+    text-transform: uppercase;
+    border: none;
+	border-left: none;
+	display: block;
+	background-color: #55689F;
+    background-repeat: no-repeat;
+    zoom: 1;
+}
+
+#mainNav a:hover {
+    text-decoration: underline;
+    background-color: #E2E6F3;
+    background-position: 3px 50%;
+    color: #0D1B44;
+}

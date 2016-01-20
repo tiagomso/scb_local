@@ -1,0 +1,101 @@
+/* 
+    Document   : estilo_modelo_div
+    Created on : 25/04/2013, 21:29:31
+    Author     : acer
+    Description:
+        Purpose of the stylesheet follows.
+*/
+html, body, h1, h2, h3, h4, h5, h6, p, ol, ul, li, pre, code, address, variable, form, fieldset, blockquote {
+ padding: 0;
+ margin: 0;
+ font-size: 100%;
+ font-weight: normal;
+}
+
+body{font: 76% arial,sans-serif;background-color:white}
+
+root { 
+    display: block;
+}
+
+
+div#cnt_principal{background-color: #333;clear:both;width:100%;  
+                  border-style:solid;border-color: #4a4d50; border-width: .1em;
+                  z-index: 1;}
+
+div#cnt_container_01{background-color: #333;clear:both;height:35px;
+                     border-bottom:solid;border-color: #4a4d50; border-width: .1em;}
+    div#cnt_logotipo{background-color:#EEE;height:70px;float:left;width:85%;
+                     line-height: 35px; font-size: 25px; font-weight: bold;
+                     text-align: center;}
+    div#cnt_usuario{background-color:#333;color:#FFF;height:35px;float:left;width:15%;}
+        div#usuario{background-color:#333;width:100%;height:20px;float:left}
+        div#usuario p{padding-left: 10px}
+        div#usuario_sair{text-decoration: none; background-color:red; width:80%; height:20px;
+                         text-align: center;float:left; line-height: 20px; float:left; margin-left: 7.5%;}
+        div#usuario_sair a{text-decoration: none; display: block; color:white; font-weight: bold}
+    
+div#cnt_navegacao{background-color:#333;clear:both;width:100%;
+                  font-weight:bold;line-height: 30px; color:#FFF}
+div#cnt_navegacao p{padding-left: 10px; font-weight: bold}
+ 
+div#cnt_container_02{background: url(fundo_img.png) repeat-y left top; clear:both; height: 100%; width: 100%; float:left;
+                     border-bottom:solid;border-color: #4a4d50; border-width: .1em;}
+
+    div#cnt_menu{background-color: #55689F;float: left; min-height: 475px; _height: 475px; width:15%;}
+
+    div#cnt_conteudo_principal{background-color: white; float: left;
+                        min-height: 420px; _height: 420px; width:85%;}
+
+div#footer{background-color:#333;color:#FFF;float: left;height:30px; width:100%;
+           border-top:solid;border-color: #4a4d50; border-width: .1em;
+           font-weight:bold;line-height: 30px;}
+
+div#footer p{padding-left: 10px; font-weight: bold}
+
+/*Estilização do menu horizontal*/
+#mainNav {
+
+  padding: 0;
+  list-style: none;
+  border-left: none;
+  overflow: hidden;
+  clear: both;
+  zoom: 1;
+}
+
+#mainNav li {
+
+    width:100%;
+}
+
+
+#mainNav a {
+    height: 40px;
+    color: #000;
+    font-size: 11px;
+    color: white;
+    line-height: 40px;
+    text-align: left;
+    text-transform: uppercase;
+    text-decoration: none;
+    border: none;
+	border-left: none;
+	display: block;
+	background-color: #55689F;
+    background-repeat: no-repeat;
+    zoom: 1;
+}
+
+#mainNav p {
+    padding-left: 10px;
+    font-weight: bold;
+}
+
+#mainNav a:hover {
+    height: 40px;
+    text-decoration: underline;
+    background-color: #E2E6F3;
+    background-position: 3px 50%;
+    color: #0D1B44;
+}

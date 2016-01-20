@@ -1,0 +1,17 @@
+{
+	"processing": "Processando...",
+	"lengthMenu": "_MENU_ Einträge anzeigen",
+	"zeroRecords": "Keine Einträge vorhanden.",
+	"info": "_START_ de _END_ von _TOTAL_ Einträgen",
+	"infoEmpty": "0 de 0 von 0 Einträgen",
+	"infoFiltered": "(gefiltert von _MAX_  Einträgen)",
+	"infoPostFix": "",
+	"search": "Procurar",
+	"url": "",
+	"paginate": {
+		"first":    "Primeiro",
+		"previous": "Anterior",
+		"next":     "Próximo",
+		"last":     "Último"
+	}
+}

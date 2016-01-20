@@ -1,0 +1,328 @@
+.ui-widget-header {
+    border: 1px solid #e78f08;
+    background:#1C1754;
+}
+.ui-state-default a, .ui-state-default a:link, .ui-state-default a:visited{
+    color: #B0BED9;
+}
+.ui-state-active a, .ui-state-active a:link, .ui-state-active a:visited{
+    color: #585858;
+}
+.ui-widget-content{
+    background: white;
+}
+.ui-widget input, .ui-widget select, .ui-widget textarea, .ui-widget button{
+    font-family: verdana;
+    font-size: 12px;
+}   
+.ui-widget{
+    font-family: verdana;
+    font-size: 12px;
+}
+#tabs-1{
+    width:991px;
+    height:457px;
+    border: 5px;
+    border-color: yellowgreen;
+    background-color: window;
+}
+#tabs-2{
+    width:991px;
+    height:457px;
+    border: 5px;
+    border-color: yellowgreen;
+    background-color: window;
+}
+#tabs-3{
+    width:991px;
+    height:457px;
+    border: 5px;
+    border-color: yellowgreen;
+    background-color: window;
+}
+#tabs-4{
+    width:991px;
+    height:457px;
+    border: 5px;
+    border-color: yellowgreen;
+    background-color: window;
+}
+#tabs-5{
+    width:991px;
+    height:457px;
+    border: 5px;
+    border-color: yellowgreen;
+    background-color: window;
+}
+#complemento{
+    width:1050px;
+    height:550px;
+    margin: -1%;
+    border: 5px;
+    border-color: yellowgreen;
+    background-color: window;
+}
+#autorizacao{
+    width:1050px;
+    height:550px;
+    margin: -1%;
+    border: 5px;
+    border-color: yellowgreen;
+    background-color: window;
+}
+#historico{
+    width:1050px;
+    height:550px;
+    margin: -1%;
+    border: 5px;
+    border-color: yellowgreen;
+    background-color: window;
+}
+#critica{
+    width:90%;
+    height:10%;
+    margin-left: 5%;
+    position: center;
+    border-top:solid;
+    border-top-color: window; 
+    border-top-width: 15px;
+}
+#ctc{
+    width:80%;
+    height:80%;
+    margin-left: 10%;
+    display: block;
+
+    /*estilização da fonte*/
+    font-family: verdana;
+    font-size: 12px;
+    text-align: center;
+    line-height: 37px;
+
+    /*estilização de acordo com o alerta*/
+    background-color: #B9D3EE;
+    color: #00529B;
+}
+
+label.critica{
+    width:80%;
+    height:80%;
+    margin-left: 10%;
+    display: block;
+
+    /*estilização da fonte*/
+    font-family: verdana;
+    font-size: 12px;
+    text-align: center;
+    line-height: 37px;
+
+    /*estilização de acordo com o alerta*/
+    background-color: #B9D3EE;
+    color: #00529B;
+}
+.normal{
+    width:80%;
+    height:80%;
+    margin-left: 10%;
+    display: block;
+
+    /*estilização da fonte*/
+    font-family: verdana;
+    font-size: 12px;
+    text-align: center;
+    line-height: 37px;
+
+    /*estilização de acordo com o alerta*/
+    background-color: #B9D3EE;
+    color: #00529B;
+}
+.ctc_comp_ins{
+    width:80%;
+    height:80%;
+    margin-left: 10%;
+    display: block;
+
+    /*estilização da fonte*/
+    font-family: verdana;
+    font-size: 12px;
+    text-align: center;
+    line-height: 37px;
+
+    /*estilização de acordo com o alerta*/
+    background-color: #DFF2BF;
+    color: #4F8A10;
+}
+.ctc_comp_lmt{
+    width:80%;
+    height:80%;
+    margin-left: 10%;
+    display: block;
+
+    /*estilização da fonte*/
+    font-family: verdana;
+    font-size: 12px;
+    text-align: center;
+    line-height: 37px;
+
+    /*estilização de acordo com o alerta*/
+    background-color: #FEEFB3;
+    color: #9F6000;
+}
+.ctc_comp_exc{
+    width:80%;
+    height:80%;
+    margin-left: 10%;
+    display: block;
+
+    /*estilização da fonte*/
+    font-family: verdana;
+    font-size: 12px;
+    text-align: center;
+    line-height: 37px;
+
+    /*estilização de acordo com o alerta*/
+    background-color: #FFBABA;
+    color: #D8000C;
+}
+#div_lnc{
+    width:90%;
+    height:7%;
+    margin-left: 5%;
+    margin-top: 0.5%;
+    position: center;
+    border-top:solid;
+    border-color: whitesmoke; 
+    border-width: .1em;
+}
+#conteudo{
+    width:90%;
+    height:70%;
+    margin-left: 5%;
+    margin-top: 1%;
+    border-top:solid;
+    border-color: whitesmoke; 
+    border-width: .1em;
+}
+#conteudo_tbl{
+    width:90%;
+    height:60%;
+    margin-left: 5%;
+    margin-top: 1%;
+    border-top:solid;
+    border-color: whitesmoke; 
+    border-width: .1em;
+    overflow: auto;
+}
+#lbl_lnc{
+    width:30%;
+    height:80%;
+    float:left;
+    margin-left: 5%;
+}
+#lbl_cnt{
+    width:30%;
+    height:80%;
+    float:left;
+    margin-left: 5%;
+}
+#div_load{
+    width:10%;
+    height:80%;
+    float:left;
+    margin-left: 5%;
+    margin-top: 7px;
+
+}
+#lbl{
+    width:98%;
+    height:27px;
+    float: left;                
+    padding-right: 2%;
+    margin-right: 2%;
+    margin-top: 8px;
+
+    /*estilização da fonte*/
+    font-weight: bold;
+    font-family: verdana;
+    font-size: 12px;
+    color: #585858;
+    text-align: right;
+    line-height: 27px;
+}
+#inp{
+    width: 100%;
+    height:21px;
+    float: left;
+    margin-top: 8px;
+    font-family: verdana;
+    font-size: 12px;
+    color: #585858;
+    line-height: 21px;
+}
+input[name=inp]{
+    width: 100%;
+    height:21px;
+    float: left;
+    margin-top: 8px;
+    font-family: verdana;
+    font-size: 12px;
+    color: #585858;
+    line-height: 21px;
+}
+select[name=sel]{
+    width: 101%;
+    height:27px;
+    float: left;
+    margin-top: 8px;
+    font-family: verdana;
+    font-size: 12px;
+    color: #585858;
+    line-height: 27px;
+}
+#sel{
+    width: 101%;
+    height:27px;
+    float: left;
+    margin-top: 8px;
+    font-family: verdana;
+    font-size: 12px;
+    color: #585858;
+    line-height: 27px;
+}
+#inp_lnc{
+    width:40%;
+    height:80%;
+    float:left;
+}
+#inp_cnt{
+    width:40%;
+    height:80%;
+    float:left;
+}
+#botoes{
+    width:90%;
+    height:10%;
+    margin-left: 5%;
+    margin-top: 1%;
+    position: center;
+    border:solid;
+    border-color: whitesmoke; 
+    border-width: .1em;
+}
+.btn{
+    margin: 1.5%;
+    margin-left:2.8%;
+    width:20%;
+    height:25px;
+    font-family: verdana;
+    font-size: 10px;
+    color: #585858;
+}
+#txt_obs{
+    width: 357px;
+    height: 255px;
+    font-family: verdana;
+    font-size: 12px;
+    color: #585858;
+    line-height: 21px;
+}

@@ -1,0 +1,90 @@
+/* 
+    Document   : estilo_login
+    Created on : 21/05/2013, 00:47:30
+    Author     : acer
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+}
+
+#formulario{
+    position: absolute;
+    top: 35%;
+    left: 35%;
+    width: 400px;
+    height: 200px; 
+    border:solid;border-color: #4a4d50; border-width: .1em;
+}
+#header{
+    width: 400px;
+    height: 20px;
+    text-align: center;
+    float: left;
+    font-family: verdana;
+    background-color: #55689F; color: white;
+    font-size: 15px; font-weight: bold;
+}
+#subForm{
+    float: left;
+    width: 400px;
+    height: 160px; 
+    background-color: whitesmoke;
+}
+
+#rotulo {
+    float: left;
+    width: 50%;  
+}
+
+#rotulo p{
+    text-align: right;
+    font-family: verdana;
+    font-size: 13px;
+    color: #666;
+    font-weight: bold;  
+    padding-right:5%;
+    padding-top: 2%;
+}
+
+#input {
+    float: left;
+    width: 50%;
+}
+
+#input p{
+    text-align: left;
+    font-family: verdana;
+    font-size: 13px;
+    color: #666;
+    font-weight: bold;
+    padding-left: 5%;
+    width: 70%;
+}
+
+#footer{
+    width: 400px;
+    height: 20px;
+    text-align: center;
+    padding-bottom: 0;
+    clear: both;
+    float: left;
+    background-color: #55689F; color: white;
+}
+#acessar{
+    text-align: center;
+    font-size: 13px;
+    width: 100%
+}
+
+#username{
+    font-size: 13px;
+    width: 100%
+}
+
+#senha{
+    font-size: 13px;
+    width: 100%
+}

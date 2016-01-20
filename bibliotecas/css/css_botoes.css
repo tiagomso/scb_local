@@ -1,0 +1,95 @@
+    /* 
+    Document   : css_botoes
+    Created on : 01/05/2014, 23:57:47
+    Author     : acer
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+}
+	 
+a.btn:link {
+    /* Estilo do Rótulo */
+    font: 14px Helvetica, Verdana, Arial, sans-serif;
+    text-decoration: none;
+    text-align: center;
+    color: #0D1B44;
+
+    /* Dimensões do botão */
+    display: inline-block;
+    padding: 0px 10px;
+    line-height: 80px;
+    width: 150px;
+    background-color:whitesmoke;
+    margin-left: 2%;
+    margin-top: 2%;
+
+    /* Cantos arredondados */
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+
+    /* Sombra do texto */
+    text-shadow: -1px -1px 1px rgba(0,0,0,.3);
+
+    /* Sombra do botão */
+    -webkit-box-shadow: 2px 2px 4px rgba(0,0,0,.3);
+    -moz-box-shadow: 2px 2px 4px rgba(0,0,0,.3);
+}
+
+a.btn:visited {
+    /* Estilo do Rótulo */
+    font: 14px Helvetica, Verdana, Arial, sans-serif;
+    text-decoration: none;
+    text-align: center;
+    color: #0D1B44;
+
+    /* Dimensões do botão */
+    display: inline-block;
+    padding: 0px 10px;
+    line-height: 80px;
+    width: 150px;
+    background-color:whitesmoke;
+    margin-left: 2%;
+    margin-top: 2%;
+
+    /* Cantos arredondados */
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+
+    /* Sombra do texto */
+    text-shadow: -1px -1px 1px rgba(0,0,0,.3);
+
+    /* Sombra do botão */
+    -webkit-box-shadow: 2px 2px 4px rgba(0,0,0,.3);
+    -moz-box-shadow: 2px 2px 4px rgba(0,0,0,.3);
+}
+
+a.btn:hover {
+    /* Estilo do Rótulo */
+    font: 14px Helvetica, Verdana, Arial, sans-serif;
+    text-decoration: none;
+    text-align: center;
+    color: #0D1B44;
+
+    /* Dimensões do botão */
+    display: inline-block;
+    padding: 0px 10px;
+    line-height: 80px;
+    width: 150px;
+    background-color:#E2E6F3;
+    margin-left: 2%;
+    margin-top: 2%;
+
+    /* Cantos arredondados */
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+
+    /* Sombra do texto */
+    text-shadow: -1px -1px 1px rgba(0,0,0,.3);
+
+    /* Sombra do botão */
+    -webkit-box-shadow: 2px 2px 4px rgba(0,0,0,.3);
+    -moz-box-shadow: 2px 2px 4px rgba(0,0,0,.3);
+}

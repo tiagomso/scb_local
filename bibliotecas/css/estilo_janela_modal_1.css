@@ -1,0 +1,91 @@
+#critica{
+    display: inline-block;
+    color: red;
+    background-color: yellow;
+    width:400px;
+    height:20px;
+    text-align: center;
+    border: 5px;
+    border-color: yellowgreen;
+}
+#mascara{
+    position:absolute;
+    z-index:2;
+    background-color:#000;
+    display:none;
+}
+.windowComplemento{
+    display:none;
+    width:1050px;
+    height:550px;
+    position:fixed;
+    left:0;
+    top:0;
+    background:#FFF;
+    z-index:4;
+    padding:5px;
+    border-radius:1px;
+
+    /* Cantos arredondados */
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+
+    /* Sombra do texto */
+    text-shadow: -1px -1px 1px rgba(0,0,0,.3);
+
+    /* Sombra do botão */
+    -webkit-box-shadow: 2px 2px 4px rgba(0,0,0,.3);
+    -moz-box-shadow: 2px 2px 4px rgba(0,0,0,.3);
+}
+
+#formComplemento {
+    margin-top: 30px;
+}
+#formComplemento .label{
+    float: left;
+    width: 100px;
+    margin-right: 2px;
+    text-align: right;
+    font: 12px arial, helvetica, sans-aerif;
+    clear: left;
+    display: block;
+    padding: 10px;
+    color: #666;
+    font-weight: bold;
+}
+
+#salvar {
+    float: left;
+    width: 100px;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+#sair {
+    float: left;
+    width: 100px;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+#voltar {
+    float: left;
+    width: 100px;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+#avancar {
+    float: left;
+    width: 100px;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+.text{
+    float: left;
+    width: 400px;
+    margin-left: 2px;
+    text-align: left;
+    font: 12px arial, helvetica, sans-aerif;
+    display: block;
+    padding: 5px;
+    color: #666;
+    font-weight: bold;
+}

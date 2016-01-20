@@ -1,0 +1,140 @@
+html, body, h1, h2, h3, h4, h5, h6, p, ol, ul, li, pre, code, address, variable, form, fieldset, blockquote {
+    padding: 0;
+    margin: 0;
+    font-size: 100%;
+    font-weight: normal;
+}
+#cnt{
+    clear:both;
+    width: 100%;
+    height: 570px;
+}
+#cnt_01{
+    float: left;
+    width: 100%;
+    height: 50px;
+    background-color: #1C1754;
+}
+#cnt_01_01{
+    float: left;
+    width: 10%;
+    height: 100%;
+    background-color: #1C1754;
+}
+#cnt_01_02{
+    float: left;
+    width: 40%;
+    height: 100%;
+    background-color: #1C1754;
+    font-family: verdana;
+    font-size: 12px;
+    text-decoration: #fafafa;
+}
+#cnt_01_02 p{
+    font-family: arial;
+    font-size: 20px;
+    font-weight:bold;
+    color: white;
+}
+#cnt_01_03{
+    float: left;
+    width: 40%;
+    height: 100%;
+    background-color: #1C1754;
+}
+#cnt_01_03 p{
+    font-family: arial;
+    font-size: 10px;
+    font-weight:bold;
+    color: white;
+    text-align: right;
+    line-height: 25px;
+}
+#cnt_01_04{
+    float: left;
+    width: 10%;
+    height: 100%;
+    background-color: #1C1754;
+}
+#cnt_02{
+    clear: both;
+    width: 100%;
+    height: 100%;
+    background-color: white;
+}
+#cnt_02_01{
+    margin-top: 1%;
+    float: left;
+    width: 19%;
+    height: 100%;
+    background-color: white;
+    border:solid;
+    border-color: lightsteelblue;
+    border-width: .1em;
+}
+#cnt_02_01_01{
+    float: left;
+    width: 100%;
+    height: 5%;
+    background-color: #D8D8D8;
+}
+#cnt_02_02{
+    margin-top: 1%;
+    margin-left: 1%;
+    float: left;
+    width: 79.7%;
+    height: 100%;
+    background-color: white;
+    border:solid;
+    border-color: lightsteelblue;
+    border-width: .1em;
+}
+#cnt_02_02_01{
+    float: left;
+    width: 100%;
+    height: 5%;
+    background-color: #D8D8D8;
+}
+#cnt_02_02_02{
+    float: left;
+    width: 100%;
+    height: 90%;
+    background-color: white;
+    overflow: auto;
+}
+
+.imagem  {
+    margin:0px;
+    padding:0px;
+}
+.imagem#logo a {  
+    font: bold 12px/24px arial, helvetica, sans-aerif;	
+    padding:0px;
+    text-decoration: none;
+    text-align:center;	
+    color:#ccc;
+    background: #1C1754 url('../../imagens/logo.jpg')
+        no-repeat center;   
+    background-size: 30% 60%;
+    width:100%;  
+    height:50px;	
+    display:block;	
+}
+.imagem#logoff a {  
+    font: bold 12px/24px arial, helvetica, sans-aerif;	
+    padding:0px;
+    text-decoration: none;
+    text-align:center;	
+    color:#ccc;
+    background: #1C1754 url('../../imagens/logoff_03.jpg')
+        no-repeat center;   
+    background-size: 30% 60%;
+    width:100%;  
+    height:50px;	
+    display:block;	
+}
+.imagem#logoff a:hover { 
+    background: #1C1754 url('../../imagens/logoff_03.jpg') no-repeat center;
+    color:#999;
+    background-size: 40% 80%;
+}

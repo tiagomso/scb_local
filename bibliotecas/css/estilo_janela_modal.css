@@ -1,0 +1,30 @@
+#mascara{
+    position:absolute;
+    z-index:2;
+    background-color:#000;
+    display:none;
+}
+.windowComplemento{
+    display:none;
+    width:1050px;
+    height:550px;
+    position:fixed;
+    left:0;
+    top:0;
+    background:#FFF;
+    z-index:4;
+    padding:5px;
+    border-radius:1px;
+
+    /* Cantos arredondados */
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+
+    /* Sombra do texto */
+    /* text-shadow: -1px -1px 1px rgba(0,0,0,.3);*/
+
+    /* Sombra do botão */
+    -webkit-box-shadow: 2px 2px 4px rgba(0,0,0,.3);
+    -moz-box-shadow: 2px 2px 4px rgba(0,0,0,.3);
+}
+

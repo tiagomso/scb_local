@@ -1,0 +1,38 @@
+<?php
+
+require_once "../conexao/conexao.php";  //inclui a classe de conexao com o banco de dados
+
+class formularioModal {
+    // Atributos da classe  
+    private $pdo = null;
+    private $pdf = null;
+    private $css = null;
+    private $titulo = null;
+
+    /*
+     * Construtor da classe  
+     * @param $css  - Arquivo CSS  
+     * @param $titulo - Título do relatório   
+     */
+
+    public function __construct($css, $titulo) {
+        $this->pdo = Conexao::getInstance();
+        $this->titulo = $titulo;
+        $this->carregarCSS($css);
+    }
+    
+    /*
+     * Método para carregar o conteúdo do arquivo CSS para o atributo css  
+     * @param $file - Caminho para arquivo CSS  
+     */
+
+    public function carregarCSS($file) {
+        if (file_exists($file)):
+            $this->css = file_get_contents($file);
+        else:
+            echo 'Arquivo inexistente!';
+        endif;
+    }
+}
+
+?>
